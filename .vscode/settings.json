@@ -1,3 +1,20 @@
 {
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#77e5a7",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#77e5a7",
+        "titleBar.inactiveForeground": "#FFFFFF",
+        "titleBar.border": "#77e5a7",
+        "activityBar.background": "#77e5a7",
+        "activityBar.foreground": "#FFFFFF",
+        "statusBar.background": "#77e5a7",
+        "statusBar.foreground": "#FFFFFF",
+        "statusBar.debuggingBackground": "#77e5a7",
+        "statusBar.debuggingForeground": "#FFFFFF",
+        "tab.activeBorder": "#77e5a7",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
